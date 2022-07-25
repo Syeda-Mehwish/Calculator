@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Calculator in ReactTS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I have use React Typescript and material UI package for developing this project
+
 
 ## Available Scripts
 
